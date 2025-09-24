@@ -1,4 +1,4 @@
----
+# Bike Sales Dashboard
 
 ![Dashboard Screenshot](Dashboard_Image.png)
 
