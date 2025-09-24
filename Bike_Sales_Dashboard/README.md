@@ -1,3 +1,9 @@
+---
+
+![Dashboard Screenshot](Dashboard_Image.png)
+
+---
+
 # Bike Sales Dashboard
 
 This project showcases an interactive dashboard built using **Microsoft Excel** to analyze bike purchase behavior across different demographics. It provides insights into how income, age, region, marital status, and other factors influence buying decisions.
@@ -10,14 +16,6 @@ This project showcases an interactive dashboard built using **Microsoft Excel** 
 - Pivot Tables
 - Slicers (for filtering)
 - Charts & Graphs
-
----
-
-## Dashboard Preview
-
-![Dashboard Screenshot](Dashboard_Image.png)
-
----
 
 ## Key Insights
 
